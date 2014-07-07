@@ -22,7 +22,7 @@ The [__Software Toolkit__](https://github.com/MHCI/HoverPad/tree/master/Software
 
 ## Hardware Toolkit
 
-The [__Hardware Toolkit__](https://github.com/MHCI/HoverPad/tree/master/Hardware) contains 3D CAD files and construction information and is organized as follows:
+The [__Hardware Toolkit__](https://github.com/MHCI/HoverPad/tree/master/Hardware) contains 3D CAD files and construction information. It is organized as follows:
 
 * [__Cranesystem:__](https://github.com/MHCI/HoverPad/tree/master/Hardware/Cranesystem) construction plans for the whole Hover Pad system 
 * [__Tablet Holder:__](https://github.com/MHCI/HoverPad/tree/master/Hardware/Tablet%20Holder) circuit diagrams and construction plans for the tablet 
