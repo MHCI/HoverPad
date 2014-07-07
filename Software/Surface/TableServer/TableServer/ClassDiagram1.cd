@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TableServer.AppConnector">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppConnector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableServer.JsonCommunication">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAABAACAEAIAAAAAAAAAAACAAEAgAAAEAAAgBAAAAI=</HashCode>
+      <FileName>JsonCommunication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableServer.JsonObject">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TableServer.JsonObject.Type">
+        <TypeIdentifier>
+          <NewMemberFileName>JsonObject.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAgAAARABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>JsonObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableServer.ReceiverDevice">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAIBAAAAAAAAAAAEAAhAAAAkADAAAiA=</HashCode>
+      <FileName>ReceiverDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableServer.Request">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TableServer.Request.Method">
+        <TypeIdentifier>
+          <NewMemberFileName>Request.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEQCIAAAAAAACQAAAQCAAIgAAAAAAAAAAAQAAAAAEA=</HashCode>
+      <FileName>Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableServer.Response">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAAAAAAAAAAAAAIAIAAAAAQACAAAAA=</HashCode>
+      <FileName>Response.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableServer.Server">
+    <Position X="6" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgABABAAQAAAAAAAAAAIAAAQEIIAgAgAAAAAAAAAAQA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

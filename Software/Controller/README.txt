@@ -1,0 +1,1 @@
+This software is designed for Arduino MEGA 2560 and will not work on lower boards due to the number of interrupts. 

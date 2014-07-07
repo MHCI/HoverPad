@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AbstractDemo</string>
+    <string name="dummy_button">Connect all devices</string>
+    <string name="dummy_content"></string>
+    
+    <string name="label_orientation">Orientation</string>
+    <string name="label_orientation_phi">ɸ</string>
+    <string name="label_orientation_theta">Θ</string>
+    <string name="label_orientation_psi">Ψ</string>
+   
+    <string name="label_position">Position</string>
+    <string name="label_position_x">X</string>
+    <string name="label_position_y">Y</string>
+    <string name="label_position_z">Z</string>
+
+</resources>
