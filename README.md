@@ -9,23 +9,23 @@ The Hover Pad's crane construction allows controlling the position and angle of 
 
 ## Documentation
 
-For further information please visit our [__website__](http://www.uni-ulm.de/?Hover-Pad) or read our [__documentation__](http:\\todo.link.documentation).
+For further information please visit our [__website__](http://www.uni-ulm.de/?Hover-Pad) or read our [__documentation__](https://github.com/MHCI/HoverPad/tree/master/Documentation).
 
 ## Software Toolkit
 
-The [__Software Toolkit__](http://todo.software) is necessary to control the tablet's motion in space and is organized as follows:
+The [__Software Toolkit__](https://github.com/MHCI/HoverPad/tree/master/Software) is necessary to control the tablet's motion in space and is organized as follows:
 
-* [__Tablet:__](http://todo.software.tablet) communication libraries and example demo application 
-* [__Surface:__](http://todo.software.surface) server application, communication libraries and example demo application 
-* [__Controller:__](http://todo.software.arduino) arduino motor controller 
+* [__Tablet:__](https://github.com/MHCI/HoverPad/tree/master/Software/Tablet) communication libraries and example demo application 
+* [__Surface:__](https://github.com/MHCI/HoverPad/tree/master/Software/Surface) server application, communication libraries and example demo application 
+* [__Controller:__](https://github.com/MHCI/HoverPad/tree/master/Software/Controller) arduino motor controller 
 
 
 ## Hardware Toolkit
 
-The [__Hardware Toolkit__](http://todo.hardware) contains 3D CAD files and construction information and is organized as follows:
+The [__Hardware Toolkit__](https://github.com/MHCI/HoverPad/tree/master/Hardware) contains 3D CAD files and construction information and is organized as follows:
 
-* [__Cranesystem:__](http://todo.hardware.cranesystem) construction plans for the whole Hover Pad system 
-* [__Tablet Holder:__](http://todo.hardware.tabletholder) circuit diagrams and construction plans for the tablet 
+* [__Cranesystem:__](https://github.com/MHCI/HoverPad/tree/master/Hardware/Cranesystem) construction plans for the whole Hover Pad system 
+* [__Tablet Holder:__](https://github.com/MHCI/HoverPad/tree/master/Hardware/Tablet%20Holder) circuit diagrams and construction plans for the tablet 
 
 
 ## License
