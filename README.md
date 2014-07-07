@@ -30,5 +30,5 @@ The [__Hardware Toolkit__](http://todo.hardware) contains 3D CAD files and const
 
 ## License
 
-Hover Pad is licensed under MIT License. See [__LICENSE__](https://github.com/MHCI/HoverPad/blob/master/LICENSE) for full license text.
+Hover Pad is licensed under the MIT License. See [__LICENSE__](https://github.com/MHCI/HoverPad/blob/master/LICENSE) for full license text.
 
